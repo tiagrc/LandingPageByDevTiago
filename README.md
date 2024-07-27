@@ -16,7 +16,7 @@ Com foco em UI e UX, o mesmo possui um design inovador e clean, com foco em uma 
 - **jQuery:** Utilizado para simplificar manipulações DOM e implementar efeitos visuais.
 
 ## **Acesso**
-Cliqui aqui para acessar o projeto: 
+[Clique aqui para acessar o projeto!](https://tiagrc.github.io/LandingPageByDevTiago/#home)
 
 ## **Licença**
 
